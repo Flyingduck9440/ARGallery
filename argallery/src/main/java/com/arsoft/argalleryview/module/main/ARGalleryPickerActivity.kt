@@ -103,7 +103,7 @@ class ARGalleryPickerActivity : ComponentActivity() {
                 }
             }
 
-            AppTheme {
+            AppTheme(useDarkTheme = false) {
                 NavHost(
                     navController = navController,
                     route = "root",
