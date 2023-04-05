@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="item_selection" >
+        <item quantity="one">Select up to %1$d item</item>
+        <item quantity="other">Select up to %1$d items</item>
+    </plurals>
+</resources>
